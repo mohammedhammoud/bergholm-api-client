@@ -18,7 +18,7 @@ client.get_information_by_model_id(910)
 ```
 
 ## Result example:
-```json
+```
 [{
     'bild1': None,
     'bild2': '',
