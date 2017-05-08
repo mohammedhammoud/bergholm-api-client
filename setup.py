@@ -5,7 +5,7 @@ from setuptools import find_packages
 
 setup(
     name='bergholm-api-client',
-    version='0.0.1',
+    version='0.0.2',
     author=u'Mohammed Hammoud',
     author_email='mohammed@iktw.se',
     packages=find_packages(),

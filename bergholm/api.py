@@ -16,6 +16,9 @@ class Client:
         json_data = json.loads('[{}]'.format(result))
         return json_data
 
+    def get_all_knaushb(self):
+        return self.get(path='json/knaushb.php')
+
     def get_all_cihb(self):
         return self.get(path='json/cihb.php')
 

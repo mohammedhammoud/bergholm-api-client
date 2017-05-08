@@ -10,6 +10,7 @@ from bergholm.api import Client
 
 client = Client()
 
+client.get_all_knaushb()
 client.get_all_cihb()
 client.get_products_by_family_id(012)
 client.get_models_by_family_id(345)
