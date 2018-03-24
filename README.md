@@ -23,7 +23,7 @@ client.get_motorhome_family_model('weinsberg', 'carabus', '631-me')
 ```
 
 ## Result example:
-```json
+```
 [{
     u 'image_medium': u 'https://www.bergholm.com/dynamic/brands/knausHV_Mainpic_Wide.jpg',
     u 'slogan': u 'Frihet som ber\xf6r',
